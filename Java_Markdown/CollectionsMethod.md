@@ -1,0 +1,3 @@
+- public static void sort(List list) 
+- public static void reverse(List<?> list) 
+- public static void shuffle(List<?> list)
